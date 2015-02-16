@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\obj\Debug\08 MaxSum.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSum\obj\Debug\MaxSum.pdb
